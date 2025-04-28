@@ -21,17 +21,17 @@ const config = {
         happy: {
             face: { happiness: 1, derp: 0, px: 0.5, py: 0.5 },
             ui: {
-                btnHappyText: '返回',
-                titleText: '已取消',
-                subtitleText: '感谢您继续使用本插件'
+                btnHappyText: '我爱你！',
+                titleText: '爱我！',
+                subtitleText: '我要和你永远在一起！'
             }
         },
         unhappy: {
             face: { happiness: 0.2, derp: 0, px: 0.5, py: 0.5 },
             ui: {
-                btnUnhappyText: '返回',
-                titleText: '已删除',
-                subtitleText: '感谢您使用本插件'
+                btnUnhappyText: '伤心',
+                titleText: '我去死啦哈',
+                subtitleText: '我恨你！💔'
             }
         }
     }
